@@ -1,0 +1,11 @@
+*.py[cod]
+
+build
+devel
+
+profile.tmp
+
+.DS_Store
+.idea/
+tmp/
+ros/.DS_Store
